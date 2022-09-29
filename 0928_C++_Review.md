@@ -50,6 +50,17 @@ it's a `Dynamic Memory Allocation` to point to the address of Student("Gary"). W
 # Vector
 
 
+# Stack v.s Heap
+
+## Heap:
+1. dynamic memory allocation
+2. new, malloc
+3. delete free
+4. dynamically allocate objects if we need them to exist 
+
+## Stack:
+1. Local variables created within functions
+
 
 
 
